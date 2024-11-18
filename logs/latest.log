@@ -1,4 +1,91 @@
-[22:09:11] [ServerMain/INFO]: Building unoptimized datafixer
-[22:09:12] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-[22:09:12] [ServerMain/WARN]: Failed to load eula.txt
-[22:09:12] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[23:11:34] [ServerMain/INFO]: Building unoptimized datafixer
+[23:11:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:11:36] [ServerMain/INFO]: Loaded 7 recipes
+[23:11:36] [ServerMain/INFO]: Loaded 1179 advancements
+[23:11:37] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[23:11:37] [Server thread/INFO]: Loading properties
+[23:11:37] [Server thread/INFO]: Default game type: SURVIVAL
+[23:11:37] [Server thread/INFO]: Generating keypair
+[23:11:37] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: O identificador é inválido
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at afh$1.run(SourceFile:92) [server-1.19.2.jar:?]
+[23:11:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:11:37] [Server thread/INFO]: Using default channel type
+[23:11:37] [Server thread/INFO]: Preparing level "world"
+[23:11:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:11:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[23:11:51] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[23:11:51] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[23:11:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[23:11:52] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[23:11:53] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[23:11:53] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[23:11:54] [Worker-Main-7/INFO]: Preparing spawn area: 7%
+[23:11:54] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[23:11:55] [Worker-Main-4/INFO]: Preparing spawn area: 14%
+[23:11:55] [Worker-Main-8/INFO]: Preparing spawn area: 15%
+[23:11:56] [Worker-Main-7/INFO]: Preparing spawn area: 18%
+[23:11:56] [Worker-Main-9/INFO]: Preparing spawn area: 22%
+[23:11:57] [Worker-Main-4/INFO]: Preparing spawn area: 25%
+[23:11:57] [Worker-Main-9/INFO]: Preparing spawn area: 28%
+[23:11:58] [Worker-Main-7/INFO]: Preparing spawn area: 32%
+[23:11:58] [Worker-Main-6/INFO]: Preparing spawn area: 35%
+[23:11:59] [Worker-Main-6/INFO]: Preparing spawn area: 39%
+[23:11:59] [Worker-Main-11/INFO]: Preparing spawn area: 42%
+[23:12:00] [Worker-Main-6/INFO]: Preparing spawn area: 44%
+[23:12:00] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[23:12:01] [Worker-Main-3/INFO]: Preparing spawn area: 54%
+[23:12:01] [Worker-Main-11/INFO]: Preparing spawn area: 57%
+[23:12:02] [Worker-Main-6/INFO]: Preparing spawn area: 61%
+[23:12:02] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[23:12:03] [Worker-Main-10/INFO]: Preparing spawn area: 70%
+[23:12:03] [Worker-Main-10/INFO]: Preparing spawn area: 73%
+[23:12:04] [Worker-Main-1/INFO]: Preparing spawn area: 78%
+[23:12:04] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[23:12:05] [Worker-Main-7/INFO]: Preparing spawn area: 86%
+[23:12:05] [Worker-Main-6/INFO]: Preparing spawn area: 90%
+[23:12:06] [Worker-Main-9/INFO]: Preparing spawn area: 94%
+[23:12:06] [Server thread/INFO]: Time elapsed: 15917 ms
+[23:12:06] [Server thread/INFO]: Done (28.874s)! For help, type "help"
+[23:12:26] [User Authenticator #1/INFO]: UUID of player TheGamer053 is d38b1a94-7569-465a-90ae-e2b86686eacc
+[23:12:26] [Server thread/INFO]: TheGamer053[/[0:0:0:0:0:0:0:1]:58199] logged in with entity id 285 at (-58.5, 85.0, 217.5)
+[23:12:27] [Server thread/INFO]: TheGamer053 joined the game
+[23:12:27] [Server thread/INFO]: TheGamer053 lost connection: Disconnected
+[23:12:27] [Server thread/INFO]: TheGamer053 left the game
+[23:12:27] [Server thread/WARN]: handleDisconnection() called twice
+[23:12:49] [User Authenticator #2/INFO]: UUID of player TheGamer053 is d38b1a94-7569-465a-90ae-e2b86686eacc
+[23:12:49] [Server thread/INFO]: TheGamer053[/[0:0:0:0:0:0:0:1]:58207] logged in with entity id 286 at (-58.5, 85.0, 217.5)
+[23:12:49] [Server thread/INFO]: TheGamer053 joined the game
+[23:12:49] [Server thread/INFO]: TheGamer053 lost connection: Disconnected
+[23:12:49] [Server thread/INFO]: TheGamer053 left the game
+[23:12:49] [Server thread/WARN]: handleDisconnection() called twice
+[23:20:02] [User Authenticator #3/INFO]: UUID of player TheGamer053 is d38b1a94-7569-465a-90ae-e2b86686eacc
+[23:20:02] [Server thread/INFO]: TheGamer053[/[0:0:0:0:0:0:0:1]:58231] logged in with entity id 287 at (-58.5, 85.0, 217.5)
+[23:20:02] [Server thread/INFO]: TheGamer053 joined the game
+[23:20:02] [Server thread/INFO]: TheGamer053 lost connection: Disconnected
+[23:20:02] [Server thread/INFO]: TheGamer053 left the game
+[23:20:02] [Server thread/WARN]: handleDisconnection() called twice
+[23:20:11] [Server thread/INFO]: Stopping server
+[23:20:11] [Server thread/INFO]: Saving players
+[23:20:11] [Server thread/INFO]: Saving worlds
+[23:20:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:20:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:20:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:20:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:20:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:20:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:20:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
