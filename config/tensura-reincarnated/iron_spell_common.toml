@@ -1,0 +1,11 @@
+
+[manaConversionMultiplier]
+	#The multiplier for how much Mana costed to cast spells would be converted to Magicule cost in Tensura
+	#Range: 0.0 ~ 1.0E9
+	manaConversionMultiplier = 20.0
+
+[spellDamageMultiplier]
+	#The multiplier for how much spell damage would be boosted to fit with Tensura:Reincarnated
+	#Range: 0.0 ~ 1.0E9
+	spellDamageBoostMultiplier = 3.0
+

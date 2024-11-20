@@ -1,0 +1,9 @@
+
+[dragonStageForEssence]
+	#The minimum stage of a dragon to drop a Dragon Essence
+	#Range: 0 ~ 10000
+	minDragonStageForEssence = 4
+	#The maximum stage of a dragon to drop a Dragon Essence
+	#Range: 0 ~ 10000
+	maxDragonStageForEssence = 5
+
